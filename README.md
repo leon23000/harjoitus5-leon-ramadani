@@ -5,8 +5,8 @@ Ohjelmoinnin perusteiden harjoitus 5
 
 Täydennä tähän:
 
-- Nimi
-- Ryhmä
+- Leon Ramadani
+- INTKM26A2
 
 ## Projektin kuvaus
 
